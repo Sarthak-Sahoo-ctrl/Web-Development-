@@ -1,0 +1,26 @@
+.red{
+    background-color: deeppink;
+    text-align: center ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+#firstdiv{
+    background-color: lightblue;
+    text-align: center ;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+#seconddiv{
+    background-color: lightgreen;
+    text-align: center ;
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color: darkgreen;
+}
+.spanstyle{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: darkgray;
+    text-align: center;
+}
